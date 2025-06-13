@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @SagarRathore1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns:  ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Sagar Rathore
 
-<!---
-SagarRathore1/SagarRathore1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a 2nd-year Mechanical Engineering student at Delhi Technological University (DTU), passionate about building innovative tech solutions and exploring the intersection of engineering and software.
+
+💻 I specialize in **Frontend Web Development** with technologies like **HTML, CSS, JavaScript, React.js**, and **Tailwind CSS**.  
+🚀 I have contributed to open-source through **GSSoC'24**, currently working on the official website of **Neural AI**, and am also a **Web Developer at GDSC DTU**.
+
+📊 I'm expanding my skills in **Data Analytics** using tools like **Excel, SQL, Power BI, and Tableau**, and working towards becoming a **Data Analyst**.
+
+🔍 Currently interested in marketing, entrepreneurship, and applying my tech skills in real-world strategic roles.
+
+📫 Let's connect and collaborate on impactful projects!
